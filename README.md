@@ -3,7 +3,7 @@
  
 **[Anima](https://github.com/biezhi/anima)**
 
-`Balala` is Operating database Tools in vertx, Its source code comes from Anima。
+`Balala` is Operating database Tools in vertx, Its 99% source code comes from Anima。
 But it doesn't have some of the functions of Anima,like 'join ...','limit','all',like stream...... 
 It just encapsulates a Future on Anima,So refer to Anima documents
 
